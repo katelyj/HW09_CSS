@@ -5,21 +5,28 @@ color: #FF00FF;
 
 }
 
-h1 {
+h1 { /* foo heading 1 */
 
 color: #48D1CC;
+letter-spacing: 0.5em;
+text-align: center;
+text-transform: uppercase;
 
 }
 
-h2 {
+h2 { /* main foo heading */
 
 color: #E6E6FA;
+letter-spacing: 0.3em;
+text-align: center;
 
 }
 
-h3 {
+h3 { /* nav foo */
 
 color: #E6E6FA;
+letter-spacing: 0.3em;
+text-align: center;
 
 }
 
