@@ -1,11 +1,16 @@
 body {
 
     background-color: #191970;
-    color: #FF00FF;
 
 }
 
-#head1 { /* foo heading 1 */
+#tehlulz {
+
+    color: #E6E6FA;
+    
+}
+
+.extreme { /* foo heading 1 */
 
     color: #48D1CC;
     letter-spacing: 0.5em;
@@ -14,11 +19,7 @@ body {
 
 }
 
-#tehlulz {
-    
-}
-
-h2 { /* main foo heading */
+.navzone { /* nav foo */
 
     color: #E6E6FA;
     letter-spacing: 0.3em;
@@ -26,7 +27,7 @@ h2 { /* main foo heading */
 
 }
 
-h3 { /* nav foo */
+.content { /* main foo heading */
 
     color: #E6E6FA;
     letter-spacing: 0.3em;
@@ -34,24 +35,8 @@ h3 { /* nav foo */
 
 }
 
-.extreme {
+.prose { /* text */
 
-}
-
-.navzone {
-
-    color: #008080;
-
-}
-
-.content {
-
-}
-
-.prose {
-
-}
-
-.extreme {
+    color: #FF00FF;
 
 }
