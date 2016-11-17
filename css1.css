@@ -1,37 +1,57 @@
 body {
 
-background-color: #191970;
-color: #FF00FF;
+    background-color: #191970;
+    color: #FF00FF;
 
 }
 
-h1 { /* foo heading 1 */
+#head1 { /* foo heading 1 */
 
-color: #48D1CC;
-letter-spacing: 0.5em;
-text-align: center;
-text-transform: uppercase;
+    color: #48D1CC;
+    letter-spacing: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
 
+}
+
+#tehlulz {
+    
 }
 
 h2 { /* main foo heading */
 
-color: #E6E6FA;
-letter-spacing: 0.3em;
-text-align: center;
+    color: #E6E6FA;
+    letter-spacing: 0.3em;
+    text-align: center;
 
 }
 
 h3 { /* nav foo */
 
-color: #E6E6FA;
-letter-spacing: 0.3em;
-text-align: center;
+    color: #E6E6FA;
+    letter-spacing: 0.3em;
+    text-align: center;
 
 }
 
-li {
+.extreme {
 
-color: #008080;
+}
+
+.navzone {
+
+    color: #008080;
+
+}
+
+.content {
+
+}
+
+.prose {
+
+}
+
+.extreme {
 
 }
