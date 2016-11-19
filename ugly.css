@@ -7,9 +7,14 @@ body { /* overall */
 
 .top { /* top of the page */
 
-    line-height: 2;
+    line-height: 1.5;
     text-align: center;
     letter-spacing: 0.3em;
+    font-family: Palatino, Backerville, Georgia;
+    font-style: italic;
+    font-size: 125%;
+    text-shadow: -1px 0 #B8CDF8, 0 1px #B8CDF8, 1px 0 #B8CDF8, 0 -1px #B8CDF8;
+    color: #1F487E;
 
 }
 
@@ -57,16 +62,11 @@ body { /* overall */
 }
 
 
-#title { /* title of story */
-
-    color: #004E64;
-
-}
-
-
 #heading { /* headings */
 
     color: #29339B;
+    letter-spacing: 0.3em;
+    text-decoration: underline;
 
 }
 
@@ -80,9 +80,18 @@ body { /* overall */
 
 #quote { /* quotes */
 
+    color: #5CC8FF;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-style: italic;
+    text-align: center;
+    font-size: 150%;
+    line-height: 2;
+
 }
 
 
 #sourceList { /* source list */
+
+    list-style-type: circle;
 
 }
