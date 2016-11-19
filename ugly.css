@@ -1,0 +1,88 @@
+body { /* overall */
+
+    background-color: #90DDF0;
+
+}
+
+
+.top { /* top of the page */
+
+    line-height: 2;
+    text-align: center;
+    letter-spacing: 0.3em;
+
+}
+
+
+.story { /* the story */
+
+    background-color: #FFC09F;
+    text-align: center;
+
+}
+
+
+.story:hover { /* hover over the story */
+
+    background-color: #FFD700;
+    
+}
+
+
+.analysis { /* the analysis */
+
+    background-color: #BEB8EB;
+
+}
+
+
+.analysis:hover { /* hover over the analysis */
+
+    background-color: #FFD700;
+    
+}
+
+
+.source { /* the sources */
+
+    background-color: #7BE0AD;
+
+}
+
+
+.source:hover { /* hover over the sources */
+
+    background-color: #FFD700;
+    
+}
+
+
+#title { /* title of story */
+
+    color: #004E64;
+
+}
+
+
+#heading { /* headings */
+
+    color: #29339B;
+
+}
+
+
+#content { /* text */
+
+    color: #36413E;
+
+}
+
+
+#quote { /* quotes */
+
+}
+
+
+#sourceList { /* source list */
+
+}
